@@ -1,6 +1,8 @@
 # Omega-Technologies
 website created as a project requirement for CSE-3100
 
+[Web Project Report.pdf](https://github.com/Mahin7773/Omega-Technologies/files/9463788/Web.Project.Report.pdf)
+
 
 Home Page
 ![Screenshot (150)](https://user-images.githubusercontent.com/64249566/181737038-936162cf-7146-4d34-a164-a6341baf84b2.png)
@@ -23,5 +25,3 @@ flow diagram
 
 ![Blank diagram](https://user-images.githubusercontent.com/64249566/181737452-34fe6f49-aec2-4736-88ed-b33a075ae3fb.jpeg)
 
-
-[Web Project Report.pdf](https://github.com/Mahin7773/Omega-Technologies/files/9463788/Web.Project.Report.pdf)
