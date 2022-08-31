@@ -22,3 +22,6 @@ database schema
 flow diagram
 
 ![Blank diagram](https://user-images.githubusercontent.com/64249566/181737452-34fe6f49-aec2-4736-88ed-b33a075ae3fb.jpeg)
+
+
+[Web Project Report.pdf](https://github.com/Mahin7773/Omega-Technologies/files/9463788/Web.Project.Report.pdf)
